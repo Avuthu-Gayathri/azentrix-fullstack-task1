@@ -52,6 +52,11 @@ Project screenshots are available in the `screenshots` folder.
 4. Run `BudgetTrackerApplication.java`.
 5. Open the application in a browser.
 
+## Demo Video
+
+Loom Video:
+https://www.loom.com/share/e3642ac85ee94216b9222ef1e91fd4da
+
 ## Author
 
 Gayathri Avuthu
