@@ -51,6 +51,8 @@ Project screenshots are available in the `screenshots` folder.
 3. Update `application.properties` with database credentials.
 4. Run `BudgetTrackerApplication.java`.
 5. Open the application in a browser.
+## Access Link
+http://localhost:8080
 
 ## Demo Video
 
